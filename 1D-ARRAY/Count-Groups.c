@@ -22,5 +22,6 @@ int main(){
     }
   }  
   printf("%d",count);
+  printf("code is done!");
   return 0;
 }
